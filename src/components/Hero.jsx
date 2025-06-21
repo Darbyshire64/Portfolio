@@ -48,6 +48,7 @@ function Hero() {
 
     return (
         <section className={styles.hero}>
+            <div className={styles.overlay}></div>
             <h1 className={styles.title}>Lawri Darbyshire</h1>
             <h2 className={styles.subtitle}>Developer | Stage Lighting Enthusaist</h2>
             <p className={styles.tagline}>
