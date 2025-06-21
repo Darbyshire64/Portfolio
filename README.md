@@ -1,2 +1,2 @@
 # Portfolio
-For like the 500th time im redisigning my portfolio. 
+For like the 500th time im redisigning my portfolio.
