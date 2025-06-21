@@ -14,3 +14,24 @@
     color: var(--nord5);
     margin-bottom: 2rem;
 }
+
+.tagline {
+    font-size: 1rem;
+    color: var(--nord5);
+    margin-bottom: 2rem;
+    white-space: pre;
+}
+
+.cursor {
+    color: var(--nord7);
+    animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+    from, to {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+}
