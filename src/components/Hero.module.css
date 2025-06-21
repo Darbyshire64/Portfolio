@@ -1,0 +1,16 @@
+.hero {
+    padding: 4rem 2rem;
+    background-color: var(--nord0);
+    color: var(--nord6);
+    text-align: center;
+}
+.title {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    color: var(--nord4)
+}
+.subtitle {
+    font-size: 1.5rem;
+    color: var(--nord5);
+    margin-bottom: 2rem;
+}
