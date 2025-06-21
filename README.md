@@ -1,2 +1,2 @@
 # Portfolio
-For like the 500th time im redisigning my portfolio.
+For like the 500th time im redisigning my portfolio. this time in react js with a nord colour scheme because im obssesed with the nord colour scheme. my frigate, vs code, hyprland, browser is all nord.
