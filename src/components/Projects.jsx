@@ -20,7 +20,7 @@ const projects = [
 
 function Projects() {
     return (
-        <section className={styles.projects}>
+        <section id='Projects' className={styles.projects}>
             <h2 className={styles.title}>My Projects</h2>
             <div className={styles.projectList}>
                 {projects.map((project, index) => (
