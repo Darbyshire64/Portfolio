@@ -3,7 +3,7 @@
     background-color: var(--nord1);
     color: var(--nord4);
     text-align: center;
-    border-top: 5px solid var(--nord4)
+    border-top: 5px solid var(--nord4);
 }
 
 .title {
@@ -15,4 +15,7 @@
 .text {
     font-size: 1rem;
     line-height: 1.6;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
 }
