@@ -20,6 +20,11 @@ const projects = [
         title: 'Musical Lighting Design',
         description: 'Ive Been Designing some lighting for diffrent musicals so far im working on alladin. soon ill upload it to a central repository',
         tech: ['DMX', 'MyDMX', 'Stage Tech'],
+    },
+    {
+        title: 'SensorBox',
+        description: 'A Custom RP2040 power devboard that comes preloaded with a host of sensors to allow for easy deployment and learning about microcontrolers. like the bbc microbit',
+        tech: ['RP2040', 'EasyEDA', 'Electronics'],
     }
 ]
 
