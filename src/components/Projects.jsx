@@ -22,9 +22,9 @@ const projects = [
         tech: ['DMX', 'MyDMX', 'Stage Tech'],
     },
     {
-        title: 'SensorBox',
-        description: 'A Custom RP2040 power devboard that comes preloaded with a host of sensors to allow for easy deployment and learning about microcontrolers. like the bbc microbit',
-        tech: ['RP2040', 'EasyEDA', 'Electronics'],
+        title: 'Endevour DMX',
+        description: 'This is a custom DMX Tranciver Platform Designed for both reciving and controling DMX. Using an ESP32-C3 With Onboard WIFI',
+        tech: ['ESP32', 'DMX', 'Serieal', 'Electronics'],
     }
 ]
 
