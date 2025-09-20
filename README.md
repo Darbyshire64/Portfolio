@@ -1,16 +1,5 @@
 # Portfolio
-For like the 500th time im redisigning my portfolio. this time in react js with a nord colour scheme because im obssesed with the nord colour scheme. my frigate, vs code, hyprland, browser is all nord.
-
-## Docker CI/CD
-
-This repository includes a GitHub Action that automatically builds and pushes Docker images to Docker Hub on every commit.
-
-### Setup
-
-To enable automatic Docker image publishing, add the following secrets to your GitHub repository:
-
-1. `DOCKER_USERNAME` - Your Docker Hub username
-2. `DOCKER_PASSWORD` - Your Docker Hub access token
+For like the 500th time im redisigning my portfolio. this time in react js with a nord colour scheme because im obssesed with the nord colour scheme. my frigate, vs code, hyprland, browser is all Nord.
 
 ### Docker Image
 
