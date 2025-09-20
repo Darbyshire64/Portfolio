@@ -10,13 +10,6 @@ const projects = [
         live: 'https://fuel.lawridarbyshire.co.uk'
     },
     {
-        title: 'Portfolio Website',
-        description: 'This portfolio site is built in react and styled with a nord inspired colour scheme',
-        tech: ['React', 'CSS Modules', 'NPM'],
-        github: 'https://github.com/Darbyshire64/Portfolio',
-        live: 'https://lawridarbyshire.co.uk'
-    },
-    {
         title: 'Musical Lighting Design',
         description: 'Ive Been Designing some lighting for diffrent musicals so far im working on alladin. soon ill upload it to a central repository',
         tech: ['DMX', 'MyDMX', 'Stage Tech'],
