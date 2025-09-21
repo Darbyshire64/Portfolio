@@ -28,6 +28,7 @@ function Navbar() {
             <div className={styles.navLinks}>
                 <a href="#About">About</a>
                 <a href="#Projects">Projects</a>
+                <a href="#Intrests">Intrests</a>
                 <a href="#Contact">Contact</a>
             </div>
         </section>
