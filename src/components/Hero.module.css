@@ -1,7 +1,7 @@
 .hero {
     padding: 4rem 2rem;
     background-color: var(--nord0);
-    background-image: url('../assets/header.jpg');
+    background-image: url('http://assets.darbyshire.tech/portfolio/header.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
