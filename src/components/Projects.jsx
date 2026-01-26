@@ -18,6 +18,13 @@ const projects = [
         title: 'Endevour DMX',
         description: 'This is a custom DMX Tranciver Platform Designed for both reciving and controling DMX. Using an ESP32-C3 With Onboard WIFI',
         tech: ['ESP32', 'DMX', 'Serieal', 'Electronics'],
+    },
+    {
+        title: 'Homelab',
+        description: 'Ive Recently Taken To Homelabinging. In order to learn industry standard tools such as Docker, Proxmox, LXC Containers, UniFi and many more.',
+        tech: ['Proxmox', 'Virtulization', 'Networking', 'Security'],
+        github: 'https://docs.google.com/document/d/1YWywGDaMxHv0aKir0ivk9DpTEOxBjlqz3S1-yz5xJws/edit?usp=sharing',
+        live: 'https://status.darbyshire.tech/status/homelab'
     }
 ]
 

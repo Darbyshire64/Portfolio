@@ -6,7 +6,11 @@ function Hero() {
     const taglines = [
         'I like to build projects that solve problems.',
         'I like to do Lighting for my school.',
-        'I like to volunteer for Greenham Common Control Tower'
+        'I like to volunteer for Greenham Common Control Tower',
+        'I like to learn new technologys.',
+        'I am not afraid to try new things',
+        'I like to Use Docker',
+        'I like to Experiment'
     ]
 
     const [displayed, setDisplayed] = useState('')
