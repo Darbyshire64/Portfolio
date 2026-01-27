@@ -18,6 +18,7 @@ const projects = [
         title: 'Endevour DMX',
         description: 'This is a custom DMX Tranciver Platform Designed for both reciving and controling DMX. Using an ESP32-C3 With Onboard WIFI',
         tech: ['ESP32', 'DMX', 'Serieal', 'Electronics'],
+        github: 'https://github.com/Darbyshire64/EndevourDMX'
     },
     {
         title: 'Homelab',
@@ -25,7 +26,13 @@ const projects = [
         tech: ['Proxmox', 'Virtulization', 'Networking', 'Security'],
         github: 'https://docs.google.com/document/d/1YWywGDaMxHv0aKir0ivk9DpTEOxBjlqz3S1-yz5xJws/edit?usp=sharing',
         live: 'https://status.darbyshire.tech/status/homelab'
-    }
+    },
+    {
+        title: 'Blueboard',
+        description: 'A Custom ANSI109 Keyboard',
+        tech: ['KICAD', 'KMK', 'Micropython', 'Electronics'],
+        github: 'https://github.com/Darbyshire64/Blueboard'
+    },
 ]
 
 function Projects() {
