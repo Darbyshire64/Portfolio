@@ -9,9 +9,9 @@ function Contact() {
                     <span>💻</span>
                     <span>Github: Darbyshire64</span>
                 </a>
-                <a href="mailto:lawri@lawridarbyshire.co.uk" target="_blank" className={styles.contactCard}>
-                    <span>🖂</span>
-                    <span>Email: lawri@lawridarbyshire.co.uk</span>
+                <a href="mailto:lawri@darbyshire.tech" target="_blank" className={styles.contactCard}>
+                    <span>✉</span>
+                    <span>Email: lawri@darbyshire.tech</span>
                 </a>
             </div>
         </section>
