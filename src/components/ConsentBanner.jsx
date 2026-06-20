@@ -83,8 +83,8 @@ const styles = {
   },
   box: {
     maxWidth: 520,
-    background: "#111",
-    color: "#fff",
+    background: "#2e3440",
+    color: "#eceff4",
     padding: 16,
     borderRadius: 12,
     fontSize: 14,
@@ -101,7 +101,7 @@ const styles = {
   btnPrimary: {
     flex: 1,
     padding: 10,
-    background: "#fff",
+    background: "#5e81ac",
     color: "#000",
     border: "none",
     borderRadius: 8,
@@ -110,7 +110,7 @@ const styles = {
   btnSecondary: {
     flex: 1,
     padding: 10,
-    background: "#333",
+    background: "#81a1c1",
     color: "#fff",
     border: "none",
     borderRadius: 8,
