@@ -5,7 +5,15 @@
     <link rel="icon" type="image/svg+xml" href="https://e1.darbyshire.tech/portfolio/ld_logo.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Lawri Darbyshire </title>
-    <script defer src="https://umami.darbyshire.tech/script.js" data-website-id="e73a97af-c6e6-43b1-9bbf-ac26e8c2a00b"></script>
+    <script>
+      if (localStorage.getItem("analytics-consent") === "true") {
+        var s = document.createElement("script");
+        s.defer = true;
+        s.src = "https://umami.darbyshire.tech/script.js";
+        s.setAttribute("data-website-id", "YOUR_ID");
+       document.head.appendChild(s);
+      }
+</script>
   </head>
   <body>
     <div id="root"></div>
