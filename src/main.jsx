@@ -6,8 +6,13 @@ import './styles/variables.css';
 import ConsentBanner from "./components/ConsentBanner";
 
 
+
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter>
-    <App />
-  </BrowserRouter>
+  <>
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  
+  <ConsentBanner />
+  </>
 );
