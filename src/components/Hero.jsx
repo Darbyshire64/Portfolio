@@ -5,12 +5,15 @@ import { useState, useEffect } from 'react'
 function Hero() {
     const taglines = [
         'I like to build projects that solve problems.',
-        'I like to do Lighting for my school.',
-        'I like to volunteer for Greenham Common Control Tower',
+        'I like to make soloutions.'
+        'I like to do lighting for my school.',
+        'I like to volunteer for Greenham Common Control Tower.',
         'I like to learn new technologys.',
-        'I am not afraid to try new things',
-        'I like to Use Docker',
-        'I like to Experiment'
+        'I am not afraid to try new things.',
+        'I like to use Proxmox.',
+        'I like to connect things.',
+        'I like to make things pepole use.'
+        'I like to Experiment.'
     ]
 
     const [displayed, setDisplayed] = useState('')
@@ -54,7 +57,7 @@ function Hero() {
         <section className={styles.hero}>
             <div className={styles.overlay}></div>
             <h1 className={styles.title}>Lawri Darbyshire</h1>
-            <h2 className={styles.subtitle}>Backend Developer</h2>
+            <h2 className={styles.subtitle}>Network Engineer</h2>
             <p className={styles.tagline}>
                 {displayed}
                 <span className={styles.cursor}>▌</span> 
