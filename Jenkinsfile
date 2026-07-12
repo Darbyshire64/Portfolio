@@ -29,5 +29,12 @@ pipeline {
                 sh 'ls -lah dist'
             }
         }
+        stage('Deploy') {
+            steps {
+                sh '''
+                rsync -av --delete dist/ deploy@10.5.0.101:/var/www/portfolio/
+            '''
+            }
+        }
     }
 }
