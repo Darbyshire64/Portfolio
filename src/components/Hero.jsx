@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react'
 function Hero() {
     const taglines = [
         'I like to build projects that solve problems.',
-        'I like to make soloutions.'
+        'I like to make soloutions.',
         'I like to do lighting for my school.',
         'I like to volunteer for Greenham Common Control Tower.',
         'I like to learn new technologys.',
