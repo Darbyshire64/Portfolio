@@ -12,7 +12,7 @@ function Hero() {
         'I am not afraid to try new things.',
         'I like to use Proxmox.',
         'I like to connect things.',
-        'I like to make things pepole use.'
+        'I like to make things pepole use.',
         'I like to Experiment.'
     ]
 
